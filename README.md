@@ -15,10 +15,10 @@ I'm a passionate developer with a keen interest in creating efficient and scalab
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pnkj-antino&show_icons=true&theme=radical" alt="Pankaj's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=pnkjvrm&show_icons=true&theme=radical" alt="Pankaj's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnkj-antino&layout=compact&theme=radical" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnkjvrm&layout=compact&theme=radical" alt="Top Languages"/>
     </td>
   </tr>
 </table>
