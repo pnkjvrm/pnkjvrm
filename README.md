@@ -33,13 +33,6 @@ I take products from the first commit to production: the mobile app, the API beh
 - **Commerce:** FastAPI + Celery backend, React admin, and a Flutter shopping app with Razorpay checkout
 - **Internal tools:** a resource-management system for engineering teams, a seller price-intelligence dashboard, and an S3 archiver for ad data
 
-### 🚀 Open source
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**flutter_boilerplate**](https://github.com/pnkjvrm/flutter_boilerplate) | Starter template for spinning up new Flutter apps fast | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square) |
-| [**quiz**](https://github.com/pnkjvrm/quiz) | A quiz app written in Go | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) |
-
 ### 🧰 Tech stack
 
 **Languages**<br/>
